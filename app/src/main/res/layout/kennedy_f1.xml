@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bluebackground"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:orientation="horizontal" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/supabutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Return to Map"></Button>
+        <!--android:drawableStart="@drawable/return_arrow"/> -->
+        <!--android:text="Too menu" /> -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/image_viewer"
+                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight = "0.8"
+                android:src="@drawable/kennedy_f1"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight = "0.2"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:text="KEY:"
+                    android:textSize="25dp"
+                    android:textColor="@color/white"
+                    android:textAlignment="center"
+                    android:layout_weight = "0.14"/>
+                <Switch
+                    android:id="@+id/seminarRoom_switch"
+                    android:text="Seminar Room"
+                    android:textSize="25dp"
+                    android:textColor="@color/white"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight = "0.14"/>
+                <Switch
+                    android:id="@+id/pcRoom_switch"
+                    android:text="PC Room"
+                    android:textSize="25dp"
+                    android:textColor="@color/white"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight = "0.14"/>
+                <Switch
+                    android:id="@+id/labs_switch"
+                    android:text="Labs"
+                    android:textSize="25dp"
+                    android:textColor="@color/white"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight = "0.14"/>
+                <Switch
+                    android:id="@+id/social_switch"
+                    android:text="Social Spaces"
+                    android:textSize="25dp"
+                    android:textColor="@color/white"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight = "0.14"/>
+                <Button
+                    android:text="Floor 2"
+                    android:id="@+id/up_floor"
+                    android:layout_weight="0.14"
+                    android:layout_width="match_parent"
+                    android:layout_height = "0dp"/>
+                <Button
+                    android:text="Ground Floor"
+                    android:id="@+id/down_floor"
+                    android:layout_weight="0.14"
+                    android:layout_width="match_parent"
+                    android:layout_height = "0dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

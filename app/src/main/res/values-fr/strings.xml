@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_1">Quelles sont les matières qui vous intéressent le plus dans vos études actuelles ?</string>
+    <string name="question_2">Quels sont vos loisirs ou activités extrascolaires préférés ?</string>
+    <string name="question_3">Quel type de carrière envisagez-vous pour l\'avenir ?</string>
+    <string name="question_4">tes-vous intéressé(e) par le fait d\'assurer la sûreté et la sécurité des systèmes numériques ?</string>
+    <string name="question_5">Êtes-vous intéressé(e) par la création de nouvelles applications logicielles ou de nouveaux systèmes ?</string>
+    <string name="question_6">Aimez-vous analyser des données, des modèles et tirer des conclusions ?</string>
+    <string name="question_7">Préférez-vous travailler de manière indépendante ou au sein d\'une équipe ?</string>
+    <string name="question_8">Êtes-vous intéressé(e) par l\'exploration des technologies de pointe et la contribution aux innovations ?</string>
+    <string name="question_9">Tenez-vous compte des implications éthiques de la technologie dans votre prise de décision ?</string>
+    <string name="question_0">Quels sont les domaines de la technologie et de l\'innovation qui vous fascinent le plus ?</string>
+
+    <string name="option_1_1">Je suis fasciné par le potentiel d\'apprentissage et d\'adaptation des machines.</string>
+    <string name="option_1_2">J\'aime comprendre comment les entreprises utilisent la technologie pour acquérir un avantage concurrentiel,</string>
+    <string name="option_1_3">J\'aime explorer les aspects théoriques de l\'informatique,</string>
+    <string name="option_1_4">Je m\'intéresse à la sécurisation des systèmes numériques contre les menaces potentielles,</string>
+    <string name="option_1_5">J\'aime construire des applications pratiques et résoudre des problèmes du monde réel</string>
+
+    <string name="option_2_1">Mathématiques et algorithmes avancés</string>
+    <string name="option_2_2">Un mélange de sujets liés aux affaires et à la technologie</string>
+    <string name="option_2_3">Cours de programmation et d\'informatique</string>
+    <string name="option_2_4">Cybersécurité et piratage éthique</string>
+    <string name="option_2_5">Cours de conception et de développement de logiciels.</string>
+
+    <string name="option_3_1">Expérimenter des projets d\'apprentissage automatique.</string>
+    <string name="option_3_2">Analyser les tendances du marché et les innovations technologiques</string>
+    <string name="option_3_3">Participer à des concours de codage et à des hackathons</string>
+    <string name="option_3_4">Explorer les défis de la cybersécurité</string>
+    <string name="option_3_5">Développer des applications logicielles pour des projets personnels.</string>
+
+    <string name="option_4_1">Construire des systèmes d\'intelligence artificielle avancés pour diverses applications</string>
+    <string name="option_4_2">Gérer des projets technologiques pour les entreprises</string>
+    <string name="option_4_3">Devenir développeur ou ingénieur logiciel</string>
+    <string name="option_4_4">Travailler dans le domaine de la cybersécurité pour protéger les actifs numériques</string>
+    <string name="option_4_5">Concevoir et développer des solutions logicielles</string>
+
+    <string name="option_5_1">Veiller à ce que les systèmes d\'IA respectent les règles d\'éthique</string>
+    <string name="option_5_2">Comprendre et atténuer les risques de cybersécurité</string>
+    <string name="option_5_3">Se concentrer sur les aspects théoriques et éthiques de l\'informatique</string>
+    <string name="option_5_4">Se spécialiser dans les pratiques de cybersécurité</string>
+    <string name="option_5_5">Mettre en œuvre des pratiques de codage sécurisées dans le développement de logiciels</string>
+
+    <string name="option_6_1">Maîtrise de Python, Java et des langages d\'apprentissage automatique</string>
+    <string name="option_6_3">Vaste expérience du codage et du développement de logiciels</string>
+    <string name="option_6_5">Solides compétences en programmation avec un accent sur la construction de logiciels robustes.</string>
+    <string name="option_6_2">Adepte de divers langages de programmation avec un accent sur les applications commerciales</string>
+    <string name="option_6_4">Spécialisé dans le piratage éthique et le codage sécurisé</string>
+
+    <string name="option_7_1">Prendre plaisir à analyser des données complexes pour améliorer les algorithmes d\'IA</string>
+    <string name="option_7_2">Utiliser l\'analyse de données pour la prise de décisions commerciales</string>
+    <string name="option_7_3">Solides compétences analytiques et de résolution de problèmes en matière de codage</string>
+    <string name="option_7_4">Analyser les vulnérabilités en matière de sécurité et recommander des solutions</string>
+    <string name="option_7_5">Utiliser les connaissances fondées sur les données pour l\'optimisation des logiciels</string>
+
+    <string name="option_8_4">Participer à des initiatives de cybersécurité en équipe</string>
+    <string name="option_8_3">Capable de collaborer à des projets de développement de logiciels</string>
+    <string name="option_8_2">Travaille bien au sein d\'équipes interfonctionnelles pour mettre en œuvre des solutions technologiques</string>
+    <string name="option_8_1">A l\'aise pour collaborer à des projets de recherche en IA</string>
+    <string name="option_8_5">Enjoy working with a team to build software applications</string>
+
+    <string name="option_9_1">Passionné par l\'idée de repousser les limites de la technologie de l\'IA</string>
+    <string name="option_9_2">Intéressé par la recherche de solutions technologiques innovantes pour les entreprises</string>
+    <string name="option_9_3">S\'engager dans la recherche sur les dernières avancées en informatique</string>
+    <string name="option_9_4">Contribuer à la recherche sur la cybersécurité pour une meilleure protection</string>
+    <string name="option_9_5">Innover et optimiser les solutions logicielles pour de meilleures performances</string>
+
+    <string name="option_10_1">Donner la priorité au développement et à l\'utilisation éthiques de l\'IA</string>
+    <string name="option_10_2">Considérer les implications éthiques dans la gestion des technologies</string>
+    <string name="option_10_3">Comprendre et appliquer les principes éthiques en informatique</string>
+    <string name="option_10_4">Mettre l\'accent sur les pratiques de piratage éthique en matière de cybersécurité</string>
+    <string name="option_10_5">Adhérer aux lignes directrices éthiques en matière d\'ingénierie logicielle</string>
+
+    <string-array name="course_descriptions">
+        <item>L\'intelligence artificielle (IA) réussit de mieux en mieux à résoudre des problèmes complexes et essentiels, qu\'il s\'agisse de voitures auto-conduites, de médecine, de recherche d\'informations ou de jeux. Les progrès récents exploitent les techniques d\'apprentissage automatique où les systèmes d\'IA extraient des modèles à partir de vastes quantités d\'exemples (big data) en utilisant une infrastructure informatique à grande échelle, telle que le cloud. Le BSc Artificial Intelligence vous permettra de vous spécialiser dans ce domaine de l\'informatique qui évolue rapidement.</item>
+        <item>Les affaires se déroulent de plus en plus dans des espaces numériques. Ce diplôme vous permet d\'acquérir les compétences nécessaires pour appliquer les connaissances informatiques à des domaines typiques de l\'entreprise tels que le commerce électronique, les systèmes d\'information et le conseil en informatique.Les entreprises et le commerce ont besoin d\'une main-d\'œuvre qualifiée qui comprend les fondements des technologies de l\'information et les principes de la pratique commerciale. Ce diplôme offre un équilibre entre les affaires et les technologies de l\'information et répond aux besoins de l\'industrie, améliorant ainsi vos perspectives d\'emploi</item>
+        <item>L\'informatique est un sujet passionnant et évolutif qui touche tous les domaines de notre vie. Une compréhension approfondie de l\'informatique vous place dans une position idéale pour influencer l\'avenir et vous ouvre la voie à d\'excellentes opportunités d\'emploi et à des carrières bien rémunérées. Vous bénéficierez d\'un soutien important, notamment sous la forme de mentorat par les pairs, de forums en ligne et de services d\'aide à l\'étude, afin de vous permettre de prendre le meilleur départ possible dans votre carrière.</item>
+        <item>L\'expertise en matière de cybersécurité est demandée dans tous les secteurs, car nous cherchons à protéger nos économies, nos services de santé et nos données. Participez à l\'avenir de la cybersécurité.</item>
+        <item>Le génie logiciel est un domaine incroyablement passionnant qui présente un intérêt pour de nombreux secteurs d\'activité. Ce programme vous offre une base solide de compétences informatiques, vous préparant à un large éventail de carrières futures, du programmeur à l\'analyste de systèmes, du développeur de logiciels à l\'informaticien.</item>
+    </string-array>
+    <string name="course_outcome_prefix">Résultat du cours: %s</string>
+    <string name="description_not_available">Description non disponible</string>
+    <string name="how_was_your_experience_with_amy_today">Comment s\'est déroulée votre expérience avec AMY aujourd\'hui ?</string>
+    <string name="video">Vidéo</string>
+    <string name="map">"Carte  "</string>
+    <string name="questionnaire">Questionnaire</string>
+    <string name="concerns">"Préoccupations "</string>
+    <string name="thank_you_for_your_time">Merci pour votre temps !</string>
+    <string name="share_experience">Nous aimerions connaître votre avis sur l\'expérience d\'aujourd\'hui et AMY, pourriez-vous nous en faire part ?</string>
+    <string name="thank_you_for_sharing_your_experience_with_us">Merci d\'avoir partagé votre expérience avec nous !</string>
+    <string name="do_you_have_a_query_that_you_would_like_to_be_contacted_further_about">Vous avez une question pour laquelle vous souhaitez être contacté?</string>
+    <string name="show_food_bars">Spectacle nourriture/bars</string>
+    <string name="welcome_message_">Bienvenue sur Kent Uni Guide, j\'espère que vous apprécierez les nombreuses fonctionnalités que j\'ai à vous offrir.</string>
+    <string name="request">Nous aimerions connaître votre avis sur votre expérience d\'aujourd\'hui avec Kent Uni Guide et AMY, pourriez-vous nous en faire part ?</string>
+    <string name="select">Veuillez sélectionner le smiley qui représente votre expérience aujourd\'hui.</string>
+    <string name="query">Vous avez une question pour laquelle vous souhaitez être contacté(e) ?</string>
+    <string name="info">Veuillez fournir les informations suivantes afin que nous puissions vous contacter.</string>
+    <string name="thanks">Merci pour votre temps !</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom de famille</string>
+    <string name="enter_details_of_your_problem_here">Indiquez ici les détails de votre problème</string>
+    <string name="show_parking">Afficher le parking</string>
+    <string name="expand_computer_science_building">Extension du bâtiment des sciences informatiques</string>
+    <string name="show_accommodation">Montrer l\'hébergement</string>
+    <string name="select_module_to_see_more_information">Sélectionnez un module pour obtenir plus d\'informations</string>
+
+</resources>

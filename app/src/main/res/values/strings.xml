@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name" translatable="false">KentUniGuide</string>
+
+    <string name="question_0">What areas of technology and innovation fascinate you the most?</string>
+    <string name="question_1">Which subjects do you find most interesting in your current studies?</string>
+    <string name="question_2">What are your favorite hobbies or extracurricular activities?</string>
+    <string name="question_3">What kind of career do you envision for yourself in the future?</string>
+    <string name="question_4">Are you interested in ensuring the safety and security of digital systems?</string>
+    <string name="question_5">Are you interested in creating new software applications or systems?</string>
+    <string name="question_6">Do you enjoy analyzing data, patterns, and drawing conclusions?</string>
+    <string name="question_7">Do you prefer working independently or as part of a team?</string>
+    <string name="question_8">Are you interested in exploring cutting-edge technologies and contributing to innovations?</string>
+    <string name="question_9">Do you consider the ethical implications of technology in your decision-making?</string>
+
+    <string name="option_1_1">I\'m fascinated by the potential of machines learning and adapting.</string>
+    <string name="option_1_2">I enjoy understanding how businesses use technology to gain a competitive edge.</string>
+    <string name="option_1_3">I love exploring the theoretical aspects of computing.</string>
+    <string name="option_1_4">I\'m interested in securing digital systems from potential threats.</string>
+    <string name="option_1_5">I enjoy building practical applications and solving real-world problems.</string>
+
+    <string name="option_2_1">Mathematics and advanced algorithms.</string>
+    <string name="option_2_2">A mix of business and technology-related subjects.</string>
+    <string name="option_2_3">Programming and computer science courses.</string>
+    <string name="option_2_4">Cyber security and ethical hacking topics.</string>
+    <string name="option_2_5">Software design and development courses.</string>
+
+    <string name="option_3_1">Experimenting with machine learning projects.</string>
+    <string name="option_3_2">Analyzing market trends and tech innovations.</string>
+    <string name="option_3_3">Participating in coding competitions and hackathons.</string>
+    <string name="option_3_4">Exploring cyber security challenges.</string>
+    <string name="option_3_5">Developing software applications for personal projects.</string>
+
+    <string name="option_4_1">Building advanced AI systems for various applications.</string>
+    <string name="option_4_2">Managing technology projects for businesses.</string>
+    <string name="option_4_3">Becoming a software developer or software engineer.</string>
+    <string name="option_4_4">Working in cyber security to protect digital assets.</string>
+    <string name="option_4_5">Designing and developing software solutions.</string>
+
+    <string name="option_5_1">Ensuring AI systems adhere to ethical guidelines.</string>
+    <string name="option_5_2">"Understanding and mitigating cyber security risks.</string>
+    <string name="option_5_3">Focusing on the theoretical and ethical aspects of computing.</string>
+    <string name="option_5_4">Specializing in cyber security practices.</string>
+    <string name="option_5_5">Implementing secure coding practices in software development.</string>
+
+    <string name="option_6_1">Proficient in Python, Java, and machine learning languages</string>
+    <string name="option_6_2">Adept at various programming languages with a focus on business applications.</string>
+    <string name="option_6_3">Extensive experience in coding and software development.</string>
+    <string name="option_6_4">Specialized in ethical hacking and secure coding.</string>
+    <string name="option_6_5">Strong programming skills with a focus on building robust software.</string>
+
+    <string name="option_7_1">Enjoy analyzing complex data to improve AI algorithms.</string>
+    <string name="option_7_2">Utilize data analytics for business decision-making.</string>
+    <string name="option_7_3">Strong analytical and problem-solving skills in coding.</string>
+    <string name="option_7_4">Analyze security vulnerabilities and recommend solutions.</string>
+    <string name="option_7_5">Use data-driven insights for software optimization.</string>
+
+    <string name="option_8_1">Comfortable collaborating on AI research projects.</string>
+    <string name="option_8_2">Work well in cross-functional teams to implement tech solutions.</string>
+    <string name="option_8_3">Capable of collaborating on software development projects.</string>
+    <string name="option_8_4">Participate in team-based cyber security initiatives.</string>
+    <string name="option_8_5">Enjoy working with a team to build software applications.</string>
+
+    <string name="option_9_1">Passionate about pushing the boundaries of AI technology.</string>
+    <string name="option_9_2">Interested in researching innovative tech solutions for businesses.</string>
+    <string name="option_9_3">Engage in research on the latest advancements in computer science.</string>
+    <string name="option_9_4">Contribute to cyber security research for enhanced protection.</string>
+    <string name="option_9_5">Innovate and optimize software solutions for better performance.</string>
+
+    <string name="option_10_1">Prioritize ethical AI development and usage.</string>
+    <string name="option_10_2">Consider ethical implications in technology management.</string>
+    <string name="option_10_3">Understand and apply ethical principles in computer science.</string>
+    <string name="option_10_4">Emphasize ethical hacking practices in cyber security.</string>
+    <string name="option_10_5">Adhere to ethical guidelines in software engineering.</string>
+
+    <string name="course_outcome_ai" translatable="false">Artificial Intelligence</string>
+    <string name="course_outcome_bit" translatable="false">Business Information Technology</string>
+    <string name="course_outcome_cs" translatable="false">Computer Science</string>
+    <string name="course_outcome_cyber" translatable="false">Computer Science (Cyber Security)</string>
+    <string name="course_outcome_se" translatable="false">Software Engineering</string>
+    <string name="course_outcome_unknown" translatable="false">Unknown Course</string>
+
+    <string name="course_outcome_prefix">Course Outcome: %s</string>
+    <string name="description_not_available">Description not available</string>
+    <string name="how_was_your_experience_with_amy_today">How was your experience with AMY today ?</string>
+    <string name="happy_button" translatable="false">Happy Button</string>
+    <string name="neutral_button" translatable="false">Neutral Button</string>
+    <string name="sad_button" translatable="false">Sad Button</string>
+    <string name="video">Video</string>
+    <string name="map">Map</string>
+    <string name="questionnaire">Questionnaire</string>
+    <string name="concerns">Concerns</string>
+    <string name="kentuniguide" translatable="false">KentUniGuide</string>
+    <string name="course_description_will_be_displayed_here" translatable="false">Course Description will be displayed here</string>
+    <string name="thank_you_for_your_time">Thank you for your time!</string>
+    <string name="share_experience">We would love your feedback on today\'s experience and AMY, could you provide us with some?</string>
+    <string name="yes" translatable="false">YES</string>
+    <string name="no" translatable="false">NO</string>
+    <string name="thank_you_for_sharing_your_experience_with_us">Thank you for sharing your experience with us!</string>
+    <string name="do_you_have_a_query_that_you_would_like_to_be_contacted_further_about">Do you have a query that you would like to be contacted further about?</string>
+    <string name="submit" translatable="false">SUBMIT!</string>
+    <string name="show_food_bars">Show food/bars</string>
+    <string name="welcome_message_" >Welcome to Kent Uni Guide, I hope you enjoy the many features I have to offer</string>
+    <string name="request">We would love your feedback on today\'s experience using Kent Uni Guide and AMY, could you provide us with some?</string>
+    <string name="select">Please select the smiley face that represents your experience today.</string>
+    <string name="query">Do you have a query that you would like to be contacted further about?</string>
+    <string name="info">Please provide the following details so we can get back to you.</string>
+    <string name="thanks">Thank you for your time!</string>
+    <string name="select_convenor_prompt" translatable="false">Select Convenor</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="enter_details_of_your_problem_here">Enter details of your problem here</string>
+    <string name="show_parking">Show parking</string>
+    <string name="expand_computer_science_building">Expand Computer Science Building</string>
+    <string name="show_accommodation">Show accommodation</string>
+    <string name="key" translatable="false">KEY:</string>
+    <string name="module_name" translatable="false">Module Name</string>
+    <string name="module_convenor" translatable="false">module convenor</string>
+    <string name="module_details" translatable="false">module details</string>
+    <string name="discover_the_modules_you_will_be_studying_in_stage_1" translatable="false">Discover the modules you will be studying in stage 1</string>
+    <string name="select_module_to_see_more_information">Select module to see more information</string>
+    <string name="introduction_to_object_oriented_programming" translatable="false">Introduction to Object-Oriented Programming</string>
+    <string name="foundations_of_computing_i" translatable="false">Foundations of Computing I</string>
+    <string name="foundations_of_computing_ii" translatable="false">Foundations of Computing II</string>
+    <string name="databases_and_the_web" translatable="false">Databases and the Web</string>
+
+
+    <string-array name="course_descriptions">
+        <item>Artificial Intelligence (AI) is increasingly successful in solving complex and key problems from self-driving cars and medicine to information retrieval and gaming. Recent advances exploit machine learning techniques where AI systems extract patterns from vast amounts of examples (big data) using large-scale computing infrastructure, such as the cloud. On the BSc Artificial Intelligence you\'ll specialise in this rapidly evolving area of computer science.</item>
+        <item>Business increasingly takes place in digital spaces. This degree gives you the skills you need to apply computing knowledge to areas typically found in business such as e-commerce, information systems and computer consultancy. Business and commerce need a skilled workforce who understand the foundations of information technology and the principles of business practice. This degree provides a balance of business and information technology and responds to industry needs, enhancing your employment prospects.</item>
+        <item>Computer science is an exciting and evolving subject that affects every area of our lives. A deep understanding of computing puts you in a great position to influence the future as well as paving the way to excellent employment opportunities and well-paid careers. You\'ll be offered plenty of support, including peer mentoring, web forums and study skills services to give you the best start to your career.</item>
+        <item>Cyber security expertise is in demand across all industries as we look to protect our economies, health services and data. Be part of the future of cyber security.</item>
+        <item>Software Engineering is an incredibly exciting field which is valuable for many areas of business. This programme offers you a solid base of computing skills, equipping you for a wide range of future careers from programmer to systems analyst, software developer to computer scientist.</item>
+    </string-array>
+
+</resources>

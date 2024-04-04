@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_0">Quali sono i settori della tecnologia e dell\'innovazione che la affascinano di più?</string>
+    <string name="question_1">Quali sono le materie che ritiene più interessanti nei suoi studi attuali?</string>
+    <string name="question_2">Quali sono i suoi hobby preferiti o le sue attività extracurriculari?</string>
+    <string name="question_3">Che tipo di carriera immagina per sé in futuro?</string>
+    <string name="question_4">Siete interessati a garantire la sicurezza dei sistemi digitali?</string>
+    <string name="question_5">Siete interessati a garantire la sicurezza dei sistemi digitali?</string>
+    <string name="question_6">Vi piace analizzare dati, modelli e trarre conclusioni?</string>
+    <string name="question_7">Preferite lavorare in modo indipendente o come parte di un team?</string>
+    <string name="question_8">Siete interessati ad esplorare tecnologie all\'avanguardia e a contribuire alle innovazioni?</string>
+    <string name="question_9">Considerate le implicazioni etiche della tecnologia nelle vostre decisioni?</string>
+    <string name="option_1_1">Sono affascinato dal potenziale di apprendimento e adattamento delle macchine.</string>
+    <string name="option_1_2">Mi piace capire come le aziende utilizzano la tecnologia per ottenere un vantaggio competitivo.</string>
+    <string name="option_1_3">" Mi piace esplorare gli aspetti teorici dell'informatica."</string>
+    <string name="option_1_4">Sono interessato a proteggere i sistemi digitali da potenziali minacce.</string>
+    <string name="option_1_5">Mi piace creare applicazioni pratiche e risolvere problemi del mondo reale.</string>
+    <string name="option_2_1">Matematica e algoritmi avanzati.</string>
+    <string name="option_2_2">Un mix di argomenti legati al business e alla tecnologia.</string>
+    <string name="option_2_3">Corsi di programmazione e informatica.</string>
+    <string name="option_2_4">Argomenti di sicurezza informatica e hacking etico.</string>
+    <string name="option_2_5">Corsi di progettazione e sviluppo software.</string>
+    <string name="option_3_1">Sperimentare progetti di apprendimento automatico.</string>
+    <string name="option_3_2">Analizzare le tendenze del mercato e le innovazioni tecnologiche.</string>
+    <string name="option_3_3">Partecipare a gare di coding e hackathon.</string>
+    <string name="option_3_4">Esplorare le sfide della sicurezza informatica.</string>
+    <string name="option_3_5">Sviluppare applicazioni software per progetti personali.</string>
+    <string name="option_4_1">Costruire sistemi avanzati di intelligenza artificiale per varie applicazioni</string>
+    <string name="option_4_2">Gestire progetti tecnologici per le aziende</string>
+    <string name="option_4_3">Diventare sviluppatore di software o ingegnere informatico</string>
+    <string name="option_4_4">Lavorare nella sicurezza informatica per proteggere i beni digitali</string>
+    <string name="option_4_5">Progettare e sviluppare soluzioni software.</string>
+    <string name="option_5_1">Garantire che i sistemi di intelligenza artificiale rispettino le linee guida etiche.</string>
+    <string name="option_5_2">Comprendere e mitigare i rischi della sicurezza informatica.</string>
+    <string name="option_5_3">Concentrarsi sugli aspetti teorici ed etici dell\'informatica</string>
+    <string name="option_5_4">Specializzarsi in pratiche di sicurezza informatica</string>
+    <string name="option_5_5">Implementare pratiche di codifica sicure nello sviluppo del software.</string>
+    <string name="option_6_1">Conoscenza di Python, Java e dei linguaggi di apprendimento automatico</string>
+    <string name="option_6_2">Abile in vari linguaggi di programmazione con particolare attenzione alle applicazioni aziendali</string>
+    <string name="option_6_3">Ampia esperienza nella codifica e nello sviluppo di software</string>
+    <string name="option_6_4">Specializzato in hacking etico e codifica sicura</string>
+    <string name="option_6_5">Forti capacità di programmazione con particolare attenzione alla creazione di software robusto.</string>
+    <string name="option_7_1">Godetevi l\'analisi di dati complessi per migliorare gli algoritmi di intelligenza artificiale</string>
+    <string name="option_7_2">Utilizzare l\'analisi dei dati per il processo decisionale aziendale</string>
+    <string name="option_7_3">Forti capacità analitiche e di problem solving nel coding</string>
+    <string name="option_7_4">Analizzare le vulnerabilità della sicurezza e consigliare soluzioni</string>
+    <string name="option_7_5">Utilizzare le intuizioni basate sui dati per l\'ottimizzazione del software.</string>
+    <string name="option_8_1">Confortevole collaborare a progetti di ricerca sull\'intelligenza artificiale</string>
+    <string name="option_8_2">Lavora bene in team interfunzionali per implementare soluzioni tecnologiche</string>
+    <string name="option_8_3">Capacità di collaborare a progetti di sviluppo software</string>
+    <string name="option_8_4">Partecipa a iniziative di sicurezza informatica basate su team</string>
+    <string name="option_8_5">Mi piace lavorare con un team per costruire applicazioni software.</string>
+    <string name="option_9_1">Appassionato di spingersi oltre i confini della tecnologia AI</string>
+    <string name="option_9_2">Interessato alla ricerca di soluzioni tecnologiche innovative per le aziende</string>
+    <string name="option_9_3">Impegnarsi nella ricerca sugli ultimi progressi dell\'informatica</string>
+    <string name="option_9_4">Contribuire alla ricerca sulla sicurezza informatica per una maggiore protezione</string>
+    <string name="option_9_5">Innovare e ottimizzare le soluzioni software per migliorare le prestazioni.</string>
+    <string name="option_10_1">Privilegiare lo sviluppo e l\'uso etico dell\'IA</string>
+    <string name="option_10_2">Considerare le implicazioni etiche nella gestione della tecnologia</string>
+    <string name="option_10_3">Comprendere e applicare i principi etici nell\'informatica</string>
+    <string name="option_10_4">Enfatizzare le pratiche di hacking etico nella sicurezza informatica</string>
+    <string name="option_10_5">Aderire alle linee guida etiche nell\'ingegneria del software</string>
+    <string name="course_outcome_prefix">Risultato del corso: %s</string>
+    <string name="description_not_available">Descrizione non disponibile</string>
+    <string name="how_was_your_experience_with_amy_today">Com\'è stata la vostra esperienza con AMY oggi?</string>
+    <string name="video">Video</string>
+    <string name="map">"Mappa  "</string>
+    <string name="questionnaire">Questionario</string>
+    <string name="concerns">"Preoccupazioni "</string>
+    <string name="thank_you_for_your_time">Grazie per il vostro tempo!</string>
+    <string name="share_experience">Ci piacerebbe avere un vostro feedback sull\'esperienza di oggi e AMY, potrebbe fornircene qualcuno?</string>
+    <string name="thank_you_for_sharing_your_experience_with_us">Grazie per aver condiviso la vostra esperienza con noi!</string>
+    <string name="do_you_have_a_query_that_you_would_like_to_be_contacted_further_about">Avete una domanda per la quale desiderate essere contattati?</string>
+    <string-array name="course_descriptions">
+        <item>L\'intelligenza artificiale (IA) ha sempre più successo nel risolvere problemi complessi e fondamentali, dalle auto a guida autonoma alla medicina, dal recupero delle informazioni ai giochi. I recenti progressi sfruttano le tecniche di apprendimento automatico in cui i sistemi di IA estraggono modelli da vaste quantità di esempi (big data) utilizzando infrastrutture informatiche su larga scala, come il cloud. Il corso di laurea in Intelligenza Artificiale ti specializzerà in quest\'area dell\'informatica in rapida evoluzione.</item>
+        <item>Il business si svolge sempre più spesso in spazi digitali. Questo corso di laurea fornisce le competenze necessarie per applicare le conoscenze informatiche ad aree tipicamente aziendali come l\'e-commerce, i sistemi informativi e la consulenza informatica. Le imprese e il commercio hanno bisogno di una forza lavoro qualificata che comprenda le basi dell\'informatica e i principi della pratica commerciale. Questo corso di laurea offre un equilibrio tra business e tecnologia dell\'informazione e risponde alle esigenze del settore, migliorando le vostre prospettive di lavoro.</item>
+        <item>L\'informatica è una materia appassionante e in continua evoluzione che interessa ogni ambito della nostra vita. Una conoscenza approfondita dell\'informatica vi mette in una posizione ideale per influenzare il futuro, oltre a spianarvi la strada verso eccellenti opportunità di lavoro e carriere ben retribuite. Vi verrà offerto un ampio supporto, tra cui tutoraggio tra pari, forum web e servizi per lo studio, per farvi iniziare al meglio la vostra carriera.</item>
+        <item>Le competenze in materia di sicurezza informatica sono richieste in tutti i settori industriali per proteggere le nostre economie, i servizi sanitari e i dati. Entrate a far parte del futuro della sicurezza informatica.</item>
+        <item>L\'ingegneria del software è un campo incredibilmente stimolante e prezioso per molti settori di attività. Questo programma vi offre una solida base di competenze informatiche e vi prepara a un\'ampia gamma di carriere future, da programmatore ad analista di sistemi, da sviluppatore di software a scienziato informatico.</item>
+    </string-array>
+    <string name="show_food_bars">Mostra cibo/bar</string>
+    <string name="welcome_message_">Benvenuti nella Kent Uni Guide, spero che vi piacciano le numerose funzioni che ho da offrire.</string>
+    <string name="request">Ci piacerebbe avere il vostro feedback sull\'esperienza di oggi utilizzando Kent Uni Guide e AMY, potreste fornircene qualcuno?</string>
+    <string name="select">Selezionate la faccina che rappresenta la vostra esperienza di oggi.</string>
+    <string name="query">Avete una domanda per la quale desiderate essere contattati?</string>
+    <string name="info">Vi preghiamo di fornire i seguenti dati per potervi ricontattare.</string>
+    <string name="thanks">Grazie per il vostro tempo!</string>
+    <string name="first_name">Nome</string>
+    <string name="last_name">Cognome</string>
+    <string name="enter_details_of_your_problem_here">Inserite qui i dettagli del vostro problema</string>
+    <string name="show_parking">Mostra il parcheggio</string>
+    <string name="expand_computer_science_building">Ampliare l\'edificio di informatica</string>
+    <string name="show_accommodation">Mostra alloggio</string>
+    <string name="select_module_to_see_more_information">Selezionare il modulo per visualizzare ulteriori informazioni</string>
+</resources>
